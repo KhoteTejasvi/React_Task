@@ -19,7 +19,8 @@ import React from 'react'
 // import { laptops } from './data'
 // import Todo from './component/Todo'
 // import TodoList from './component/TodoList'
-import UseEffect from './component/UseEffect'
+// import UseEffect from './component/UseEffect'
+import Stopwatch from './component/StopWatch'
 
 
 
@@ -82,8 +83,11 @@ function App() {
   // <TodoList/>
   // <UseState/>
   // </>
+  // <>
+  // <UseEffect/>
+  // </>
   <>
-  <UseEffect/>
+  <Stopwatch/>
   </>
   )
 }
