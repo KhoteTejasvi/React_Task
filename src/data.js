@@ -50,3 +50,17 @@ export const planets = [
     { id: 4, name: 'Mars', distance_from_sun: '227.9 million km', type: 'Terrestrial' },
     { id: 5, name: 'Jupiter', distance_from_sun: '778.5 million km', type: 'Gas Giant' }
 ];
+
+export const todos = [
+    { id: 1, task: 'Buy groceries' },
+    { id: 2, task: 'Walk the dog' },
+    { id: 3, task: 'Finish project report' },
+    { id: 4, task: 'Call mom' },
+    { id: 5, task: 'Clean the house' },
+    { id: 6, task: 'Pay bills' },
+    { id: 7, task: 'Read a book' },
+    { id: 8, task: 'Exercise' },
+    { id: 9, task: 'Cook dinner' },
+    { id: 10, task: 'Write blog post' },
+  ]
+  
